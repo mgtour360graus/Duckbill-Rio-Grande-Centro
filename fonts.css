@@ -1,0 +1,24 @@
+@font-face {
+   font-family: "Lato";
+   src: url("fonts/Lato Regular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato";
+   src: url("fonts/Lato Bold.woff2") format("woff2");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Lato Black";
+   src: url("fonts/Lato Black.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Monstro";
+   src: url("fonts/Monstro.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
