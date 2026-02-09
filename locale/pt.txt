@@ -8,11 +8,11 @@ LinkBehaviour_4FA2080C_7E8A_C17C_41D2_DCD9F51FBA3B.source = https://maps.app.goo
 LinkBehaviour_4ABF22E0_7E77_46A4_41A3_B6318624020C.source = https://maps.app.goo.gl/qVMaKswag5cvgxfK8
 LinkBehaviour_4B4B22A7_7E77_C6AC_41DF_345E0F877E80.source = https://maps.app.goo.gl/qVMaKswag5cvgxfK8
 LinkBehaviour_04BE35BC_18DE_BFAE_4190_29FD24710152.source = https://mgtour360.com.br/
-LinkBehaviour_6E07DA11_7E9A_C167_41DA_DA50F092F435.source = https://mgtour360.com.br/tour/whats/l/duckbill
 LinkBehaviour_6E61D716_7E96_CF6D_4194_D07F8A901C7D.source = https://mgtour360.com.br/tour/whats/l/duckbill
-LinkBehaviour_4AC61C90_7E77_4165_41C7_DF8A9A735AE6.source = https://mgtour360.com.br/tour/whats/l/duckbill
-LinkBehaviour_5F51EE1E_7EF7_C19C_41B3_9F23BBD21571.source = https://mgtour360.com.br/tour/whats/l/duckbill
-LinkBehaviour_4B4682A8_7E77_C6A4_41DD_411911728B53.source = https://mgtour360.com.br/tour/whats/l/duckbill
+LinkBehaviour_6E07DA11_7E9A_C167_41DA_DA50F092F435.source = https://mgtour360.com.br/tour/whats/l/duckbill-2
+LinkBehaviour_4AC61C90_7E77_4165_41C7_DF8A9A735AE6.source = https://mgtour360.com.br/tour/whats/l/duckbill-2
+LinkBehaviour_5F51EE1E_7EF7_C19C_41B3_9F23BBD21571.source = https://mgtour360.com.br/tour/whats/l/duckbill-2
+LinkBehaviour_4B4682A8_7E77_C6A4_41DD_411911728B53.source = https://mgtour360.com.br/tour/whats/l/duckbill-2
 LinkBehaviour_4AC305CE_7E77_42FD_41DA_978309BE9664.source = https://search.google.com/local/writereview?placeid=ChIJOfJJmoadEZURK24l-NB2T9A
 LinkBehaviour_4AC64C8F_7E77_417C_41CB_C14FC59E2383.source = https://search.google.com/local/writereview?placeid=ChIJOfJJmoadEZURK24l-NB2T9A
 LinkBehaviour_4B4652A9_7E77_C6A4_41C4_33BE989F1DF4.source = https://search.google.com/local/writereview?placeid=ChIJOfJJmoadEZURK24l-NB2T9A
@@ -98,8 +98,8 @@ Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD.url = skin/Image_7640858A_79A5_1A7F_4
 ### Label
 Label_6E3F75DB_7E8A_C2E4_41D5_E8459624424C_mobile.text = AO TOUR
 Label_6E3F75DB_7E8A_C2E4_41D5_E8459624424C.text = AO TOUR
-Label_6E6F58CB_7E97_C2E4_41C7_20FC196D42D3.text = BEM-VINDOS
 Label_6E6F58CB_7E97_C2E4_41C7_20FC196D42D3_mobile.text = BEM-VINDOS
+Label_6E6F58CB_7E97_C2E4_41C7_20FC196D42D3.text = BEM-VINDOS
 Label_710F40FB_7E8D_42A4_41DB_F5FB980AADE4.text = SEJAM
 Label_710F40FB_7E8D_42A4_41DB_F5FB980AADE4_mobile.text = SEJAM
 Label_6E6C78CB_7E97_C2FB_41A8_2681BE60F697.text = VIRTUAL 360º
